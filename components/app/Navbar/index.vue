@@ -1,6 +1,6 @@
 <template>
   <header
-    class="flex items-center justify-between px-10 lg:px-16 py-7 lg:py-6 sticky top-0 backdrop-blur-md bg-primary"
+    class="flex items-center z-50 justify-around px-10 lg:px-16 py-7 lg:py-6 sticky top-0 backdrop-blur-md bg-primary"
   >
     <div class="flex gap-3 lg:gap-8">
       <span>

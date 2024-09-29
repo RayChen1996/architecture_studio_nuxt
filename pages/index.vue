@@ -1,6 +1,13 @@
 <template>
   <div class="flex flex-col min-h-dvh bg-white">
-    <div class="flex-1"></div>
+    <div class="flex-1">
+      <HomeBanner />
+      <HomeOurDna />
+      <HomeWorkSelect />
+      <HomeWhyUs />
+      <HomeBlog />
+      <HomeOurClient />
+    </div>
   </div>
 </template>
 <script setup>
