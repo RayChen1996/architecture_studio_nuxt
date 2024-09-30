@@ -1,7 +1,7 @@
 <template>
-  <div class="m-auto text-center container">
-    <div class="grid grid-cols-2 md:grid-cols-3">
-      <div class="relative">
+  <div class="m-auto text-center container mt-60">
+    <div class="grid grid-cols-1 md:grid-cols-3 place-content-center">
+      <div data-aos="flip-right" class="relative w-full">
         <span
           class="absolute left-[17px] top-[24px] bg-yellow-50 px-4 py-1 text-black"
           >Intirior</span
@@ -12,7 +12,7 @@
         </div>
       </div>
 
-      <div class="relative">
+      <div data-aos="flip-left" class="relative">
         <span
           class="absolute left-[17px] top-[24px] bg-yellow-50 px-4 py-1 text-black"
           >Intirior</span
@@ -23,7 +23,7 @@
         </div>
       </div>
 
-      <div class="relative">
+      <div data-aos="flip-right" class="relative">
         <span
           class="absolute left-[17px] top-[24px] bg-yellow-50 px-4 py-1 text-black"
           >Intirior</span

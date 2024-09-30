@@ -1,6 +1,8 @@
 <template>
   <div class="container my-10">
-    <div class="flex items-center gap-4 justify-around">
+    <div
+      class="lg:flex items-center gap-4 [&>img]:w-full lg:[&>img]:w-20 justify-around"
+    >
       <img src="/assets/aws.svg" alt="" />
       <img src="/assets/clientB.svg" alt="" />
       <img src="/assets/clientGoogle.svg" alt="" />

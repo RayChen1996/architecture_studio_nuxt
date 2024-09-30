@@ -1,14 +1,14 @@
 <template>
-  <div class="flex">
+  <div class="lg:flex">
     <div class="relative bg-black">
       <img
         src="/assets//blockimage2.png"
-        class="relative -bottom-20 left-0"
+        class="relative lg:-bottom-20 lg:left-0"
         alt=""
       />
     </div>
-    <div class="bg-black w-2/3 relative pl-10 pt-48">
-      <div class="flex items-center gap-3 lg:gap-5 -translate-x-24">
+    <div class="bg-black lg:w-2/3 relative pl-10 pt-48">
+      <div class="lg:flex items-center gap-3 lg:gap-5 lg:-translate-x-24">
         <span class="text-6xl text-white">Our DNA</span>
         <img src="/assets/line3.png" alt="" class="h-1" />
       </div>
