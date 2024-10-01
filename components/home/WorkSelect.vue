@@ -1,5 +1,5 @@
 <template>
-  <div class="container pt-32">
+  <div class="container pt-32 px-5">
     <div class="flex gap-3 lg:gap-5 items-center">
       <span class="w-32 h-[3px] bg-black"></span>
       <h3 class="text-black text-3xl lg:text-6xl">Selected Work</h3>
@@ -46,7 +46,7 @@
             <span class="w-24 h-[1px] bg-black"></span>
             <span class="text-black">Next</span>
           </button>
-          <button class="flex items-center gap-3 translate-x-16">
+          <button class="flex items-center gap-3">
             <span class="text-black">Prev</span>
             <span class="w-24 h-[1px] bg-black"></span>
           </button>

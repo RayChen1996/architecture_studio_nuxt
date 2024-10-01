@@ -1,5 +1,5 @@
 <template>
-  <div class="container relative h-full">
+  <div class="container relative h-full px-4">
     <div class="flex bg-primary h-[367px] flex-col items-center p-5 relative">
       <div class="flex items-center gap-4 w-full">
         <span class="w-40 h-[3px] bg-white"></span>
@@ -29,7 +29,7 @@
           </div>
         </div>
       </div>
-      <div class="relative lg:-left-20 -bottom-80 lg:-bottom-20">
+      <div class="relative lg:-left-10 md:-left-16 -bottom-80 lg:-bottom-20">
         <div class="bg-yellow-50 px-9 py-16 w-1/5 text-black">
           Amet eu facilisi posuere ut at cras non ipsum proin nunc purus tellus
           ultricies velit elementum ut dui sed augue ultrices phasellus
